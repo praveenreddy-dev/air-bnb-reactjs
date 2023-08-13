@@ -1,8 +1,23 @@
-# React + Vite
+# Simple Airbnb App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a basic Airbnb-like web application built using React.js and hosted with Vite. The app demonstrates the use of props, component mapping, and project building concepts learned during the Scrimba React Course.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Dynamic Listings:** The app dynamically updates based on objects uploaded in `data.jsx`.
+
+- **Props and Mapping:** Utilizes props and mapping components to manage and display property listings.
+
+- **Vite Hosting:** Hosted using Vite for efficient development and builds.
+
+## Contributing
+
+Feel free to create a pull request for contributions or improvements.
+
+## Acknowledgment
+
+Thanks to the Scrimba React Course for providing the knowledge to develop this app.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
